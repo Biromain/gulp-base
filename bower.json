@@ -1,0 +1,17 @@
+{
+  "name": "gulp-base",
+  "version": "0.0.1",
+  "authors": [
+    "Biromain <biromain.dev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
