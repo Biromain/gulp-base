@@ -1,7 +1,7 @@
-# Gulp base for starting project
+# Gulp with Bower base for starting project
 
 ### Why this ?
-I'm so bored to make all times same manipulations to get a gulp project.
+I'm so bored to make all times same things to get a gulp project.
 ![](http://i.imgur.com/SvVIX4w.gif)
 
 ### Why not more ?
