@@ -10,7 +10,7 @@ I will try to make another repo with bulletproof tasks but gradually.
 
 ### Plugins List
 - [gulp](https://www.npmjs.com/package/gulp): ofc
-- [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins): Why require all tasks :)
+- [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins): Why require all plugins :)
 - [require-dir](https://www.npmjs.com/package/require-dir): To load all tasks in folder
 - [gulp-if-else](https://www.npmjs.com/package/gulp-if-else): Why not just modify task comportment in stream ? (Ex: env || prod, ...)
 - [gulp-plumber](https://www.npmjs.com/package/gulp-plumber): Stop break my cli, please gulp
