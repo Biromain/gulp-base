@@ -10,7 +10,7 @@ module.exports = {
         "android >= 4.4",
         "bb >= 10"
     ],
-    loaplugins: {
+    loadplugins: {
         pattern: ["gulp-*", "gulp.*"],
         config: "package.json",
         scope: ["devDependencies"],
